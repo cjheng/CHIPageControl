@@ -23,8 +23,6 @@
 		4313A8171E7A99E10015A568 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4313A7EE1E7A92B30015A568 /* QuartzCore.framework */; };
 		4313A8181E7A99E70015A568 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4313A7F21E7A92C40015A568 /* Foundation.framework */; };
 		4313A8191E7A99F20015A568 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4313A7F01E7A92BB0015A568 /* CoreGraphics.framework */; };
-		4313A8251E7AA0310015A568 /* CHIBasePageControl.swift in Headers */ = {isa = PBXBuildFile; fileRef = 4313A7DD1E7A92320015A568 /* CHIBasePageControl.swift */; settings = {ATTRIBUTES = (Public, ); }; };
-		43EE766F1E7AA29E002140B5 /* CHIPageControlJaloro.swift in Headers */ = {isa = PBXBuildFile; fileRef = 4313A7D91E7A92320015A568 /* CHIPageControlJaloro.swift */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -127,8 +125,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				4313A7911E7A831E0015A568 /* CHIPageControl.h in Headers */,
-				4313A8251E7AA0310015A568 /* CHIBasePageControl.swift in Headers */,
-				43EE766F1E7AA29E002140B5 /* CHIPageControlJaloro.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
